@@ -1,0 +1,34 @@
+{
+    "CPict2": true,
+    "CVid2": false,
+    "autoAdd": false,
+    "autoAddMessage": "Thanks for adding @!, This is me http://line.me/ti/p/%40xjc6432v",
+    "autoJoin": false,
+    "autoJoinMessage": "Hello @!, Thanks for inviting, this is me http://line.me/ti/p/%40xjc6432v",
+    "autoJoinTicket": false,
+    "autoRead": false,
+    "autoRespon": false,
+    "autoResponMessage": "I'm offline @!, please message me personally",
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changevp": true,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "detectUnsend": true,
+    "fotterlink": "http://line.me/ti/p/%40xjc6432v",
+    "keyCommand": "",
+    "mimic": {
+        "status": false,
+        "target": {
+            "u975a1d526d06a8dad7bbbb9b4e64f30b": true
+        }
+    },
+    "myProfile": {
+        "coverId": "25fb1f3105c80e598aba334b8cd54d9f",
+        "displayName": "􀈂􀆹􏿿Ķimi",
+        "pictureStatus": "0hAc8t3uf2HkwFDTP2NYxhGzlIECFyIxgEfWIGIykLF3t6OgkaPDxSeiQLE3l6aV4cbmsFeHAEFHl_",
+        "statusMessage": ""
+    },
+    "setKey": false
+}
